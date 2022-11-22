@@ -32,5 +32,5 @@ const server = http.createServer(listenerOrApp).listen(port, () => {
 
 ## credit
 
-I just pulled this little function out of the default
-[express-generator](https://github.com/expressjs/generator) template.
+I just pulled this little function out of the
+[normalize-port](https://www.npmjs.com/package/normalize-port) package.
