@@ -1,0 +1,12 @@
+{
+  "name": "normalize-port-2",
+  "version": "1.0.0",
+  "description": "Normalize a port into a number, string, or false",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sana Yasfp",
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
