@@ -1,6 +1,7 @@
 # normalize-port-2
 
 A handy function that normalizes a port into a number, string, or false.
+> typescript supported
 
 ## install
 
