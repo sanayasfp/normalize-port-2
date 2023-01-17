@@ -12,7 +12,7 @@
  * @param val 
  * @returns val
  */
-declare function e(val: string | number | undefine): typeof val;
+declare function e(val: string | number | undefined): typeof val;
 
 export default e;
 
